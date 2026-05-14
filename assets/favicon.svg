@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <rect width="32" height="32" rx="6" fill="#1e3a5f"/>
+  <text x="16" y="23" font-family="'Arial Black', Arial, sans-serif" font-size="15"
+        font-weight="900" text-anchor="middle" fill="#ffffff"
+        text-rendering="geometricPrecision" letter-spacing="0.5">PS</text>
+</svg>

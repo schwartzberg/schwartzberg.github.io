@@ -7,9 +7,9 @@
       <meta name="description"
             content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
       <meta name="keywords"
-            content="data engineering, AI, machine learning, cloud, Azure, Snowflake, Python, C#, .NET, software architect, portfolio, Alex Chilton, Bern, Switzerland">
+            content=".NET, C#, Angular, React, Azure, cloud, software architect, portfolio, Paul Schwartzberg, Bern, Switzerland">
       <meta name="robots" content="index, follow">
-      <meta name="author" content="Alex Chilton">
+      <meta name="author" content="Paul Schwartzberg">
       <meta name="language" content="en">
 
       <!-- Canonical URL -->
@@ -31,7 +31,8 @@
             content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
       <!-- Favicon and Icons -->
-      <link rel="shortcut icon" type="image/png" href="{{ '/assets/favicon.ico' }}">
+      <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | prepend: site.baseurl }}">
+      <link rel="shortcut icon" href="{{ '/assets/favicon.svg' | prepend: site.baseurl }}">
 
       <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
       <link rel="stylesheet" href="{{ '/assets/css/custom.css' | prepend: site.baseurl }}">
