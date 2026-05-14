@@ -1,0 +1,178 @@
+C U R R I C U L U M V I T A E
+PAUL SCHWARTZBERG
+Senior Software Developer | Azure | .NET | Angular
++41 799138118 schwartzenberg@gmail.com
+Summary
+I have a couple decades hands-on knowledge in backend and frontend software development.
+I love this work and strive to do my best. This CV shows only my experience going back about 12 years.
+I can be a tool doing backend and frontend - .NET Core and REST services, as well as microservices and
+everything that goes with them. SQL Server, and Oracle, and Cosmos DB are databases I worked most with.
+And on the frontend I do equally well with Angular, React or WPF.
+But I prefer to have Agency. To move the product or system I am working on forward. To take ownership in
+coordination with colleagues. To mentor and/or be mentored where we can.
+The deployments of the above is typically with Azure and using Azure DevOps.
+I am also proficient in Python and R also due to work in data science and AI. AI AI-Assisted agentic
+development is my daily bread, where MCPs, backend prompt engineering, and LLMs are strongly integrated
+into the systems I build.
+Technical Skills Table
+(only a selection)
+Level: Expert (5), Highly Skilled (4), Skilled (3), Some Experience (2), Knowledgeable (1)
+Years Year last Companies where skill was
+Technical Skill Experience Level used applied
+MS SQL Server, Oracle, mySQL, und All places
+15 5 2026
+andre Databanken
+SQL / TSQL / PL/SQL 20 4-5 2026 All places
+Python & Node.js 5 4 2025 Aybit, BIT, Systemize
+HTML5 Aybit, A1 Telekom, Carlsberg, iTV,
+8 4 2026
+BIT
+TypeScript 5 4 2026 Aybit, Systemize, BIT
+JavaScript 4 3 2026 A1 Telekom, iTV, Systemize, BIT
+Angular 4 bis 15 & Angular Material 5 4-5 2025 A1 Telekom, Systemize, BIT
+React 18 & 19 3 4 2026 Aybit, BIT & Systemize
+Python 20 5 2026 All places
+AWS 1 2 2025 Systemize
+Azure, Azure Portal, Azure Devops 5 4 2026 Aybit, Systemize, BIT
+Terraform & IaC 2 4 2025 Aybit, Systemize, BIT
+Docker & Kubernetes & Helm 1 3 2025 Systemize, BIT
+C# 20 4-5 2026 All places
+.NET Core, ASP.NET Core. REST API 6 4-5 2026 Systemize Informatik. BIT
+Blazor WASM & Server 2 4 2026 Systemize Informatik
+GUI Design Carlsberg, Nokia, iTV, Systemize,
+10 4 2026
+BIT
+GIT 12 4 2025 All places
+Seite 1C U R R I C U L U M V I T A E
+Professional experience
+01/2025 – now DevOps & Software Developer Aybit
+New and continued development of different customer applications both in the web & frontend and also in
+backend, cloud, and database parts. Also with a large component testautomation,such as integration and end-
+to-end tests , also implemented in Azure DevOps pipelines.
+• . ASP.NET Core, Git, SQL, SQL Server 2022, Microservices mit Docker & K8s (Kubernetes)
+• Python systematically used in backend development and tooling
+• Angular & React frontend development
+• LLM tuning, prompt engineering, and backend deployments.
+• Implementation in Azure Services (Web Apps, Functions, API Management) & OpenAI
+& Azure Foundry
+• Azure DevOps
+Key Words General Stuff
+Jira, Jenkins, Confluence & GIT, Kafka & Microservices, Python SoapUI,
+Postman
+.NET
+.NET Core, ASP.NET Core, Swagger & REST & WPF
+Angular
+Angular 15-17, NgRx, Typescript, SCSS, Bootstrap, SignalR
+Jest, & Cypress (E2E testing)
+Azure & AWS
+Azure IoC with Terraform
+Azure Services (Web Apps, Functions)
+Azure DevOps (CI/CD) Pipelines, AWS CLI
+Certifications Azure Developer Associate (Microsoft)
+Terraform Associate (003) (Hashicorp)
+Azure DevOps Engineer Expert (Microsoft)
+06/2020 –12/2024 Senior Software Developer Bundesamt für Informatik (BIT)
+Developed “full-stack” in both frontend and backend areas of different customer applications
+(the customer was mainly the Bundesamt für Statisk)
+These are the main areas of activity:
+• C# WPF features developed in the SBER (Swiss Business and Enterprise Register) application.
+• React 17 & 18 new development of BERP (Business Enterprise Registry Platform))
+• Angular 14 & 15 development in SBER see above)
+• New backend development with .NET Core and Elastic Search and SQL Server.
+• CI/CD was in Azure Devops, and Scrum is almost always used in development.
+Key words .NET
+C#, Visual Studio 2022, WPF, Blazor, .NET Core, ASP.NET Core, REST API,
+Git, SQL, SQL Server 2022, Swagger/OpenAPI
+Angular & React
+Angular 15, Typescript, SCSS, Visual Studio Code, Bootstrap, , SignalR,
+React, JSX, Javascript, Cypress (Angular E2E testing), Visual Studio Code
+Azure
+Azure IoC with Terraform,
+Azure Services (Web Apps, Functions)
+Azure DevOps (CI/CD) Pipelines
+Seite 2C U R R I C U L U M V I T A E
+02/2016 – 04/2020 Senior Software Developer Systemize Informatik
+New development and maintenance of various customer applications both in the frontend and backend areas
+of the applications.
+Mainly the following technologies: WPF, Angular, .NET Core, Azure, and on various databases.
+• On the frontend development was done with:
+o Angular 5 to 8 with Bootstrap, HTML5
+o React 15 to 16 development
+o Tasks completed with WPF & ASP.NET MVC
+• On the backend development was done with:
+o .NET Core, with WebApi, ASP.NET Core
+o Tasks completed in Azure Event Hub, Functions, Services & Azure Devops,
+o Tasks completed on the SQL Server, and Cosmos DB.
+• Azure
+o Deployments via Terraform using ARM Templates
+o Azure Event Hub, Functions, Services & Azure Devops,
+o Azure SQL Server and Cosmos DB.
+o Azure Ops & DevOps
+• Tasks also completed in the area of Azure PowerShell, and Azure Office362 and Azure Devops.
+• I designed and implemented of IT infrastructure software for automated monitoring and installing
+software updates.
+Key words .NET
+Scrum, C#, Visual Studio bis 2019, WPF, ASP.NET MVC, Web API,
+.NET Core, ASP.NET Core , WCF, Git, SQL Server, Oracle, MS Queuing,
+SQL Server Queuing, Rabbit MQ,
+Angular
+Angular, Typescript, JavaScript, React, Kendo UI, JQuery,
+Visual Studio Code, SignalR
+Azure
+Azure Portal
+Azure Devops (CI/CD Pipelines)
+Azure Cosmos DB,
+Azure Functions, Azure App Services
+02/2014 – 01/2016 Developer / Scrum Master Wipro & A1 Telekom (Wien/Linz)
+Developer/Scrum Master for the outsourcing of ELEKTRA to Wipro India. ELEKTRA is Austria Red Crosses
+Ground Control Emergency Vehicle Assignment System. To transfer the project to India I trained and advised
+Wipro concerning the following.
+• The WPF new development of new features (called Dispatching Center Interface) in ELEKTRA Ground
+Control desktop client.
+• Expanded the ASP.NET MVC ELEKTRA website and its Web API (Webservices)
+• Implementation of the DCI (Dispatch Center Interface), project for cross border datastransfer of
+emergency services between Red Cross Ground Control systems in Salzburg, Tirol and. Bayern –
+this was done via WCF/Web services.
+• Expansion of the ELEKTRA mobile apps - with C# and Xamarin
+• The project is also described here http://www.dispatchcenterinterface.eu/umsetzung/
+Key words Outsourcing/Offshoring, Coaching, C#, JavaScript
+JQuery, Visual Studio 2010 & 2013, WPF, (MVVM), Xamarin,
+ASP.NET, MVC, Web API, WCF, Windows Tablet, OS/iPhone,
+Entity Framework (Code First), Multiplatform App Development
+Seite 3C U R R I C U L U M V I T A E
+Education
+1996-2002: cand. polit. (Master Economics), University of Copenhagen
+2025-continueing Master Data Science (Statistics, AI & Machine Learning), Harvard University
+Certifications & Courses
+o Transcript - PaulSchwartzberg-9792 | Microsoft Learn
+o MCSD - Microsoft Certified System Developer (5 Exams including ASP.NET)
+o Microsoft Azure Developer Associate
+o Microsoft Azure Fundamentals
+o Terraform 003 Associate Certified
+o https://www.credly.com/badges/2404a302-86fb-4f4c-9f27-1fe79346bcb9/public_url
+o Prince2 Foundation Project management (Candidature P2R/205008)
+o Scrum Master (10/2012) (sehe https://www.scrumalliance.org/community/profile/pschwartzb)
+o Many courses in the following areas:
+o Angular
+o Azure Cloud
+o Blazor
+Online activity
+“
+• Github Open Source
+o https://github.com/schwartzberg
+• Code Project (old stuff)
+o http://www.codeproject.com/Tips/143495/Formatting-an-XML-string-in-Silverlight
+o http://www.codeproject.com/Tips/869198/Balanced-Index-of-an-Array
+Outside of work
+• Family:
+o am a committed father of a soon 19-year-old daughter who knows everything.
+o am happily in a partnership.
+• I avidly update my IT knowledge and skills.
+• I create things. Not just software. I build and invent things (or their design) at home
+Key data
+Name: Paul Schwartzberg
+Citizenship Danish
+Languages: English, Danish, German - fluently
+Telephone: +41 799138118
+Email: schwartzenberg@gmail.com
+Seite 4

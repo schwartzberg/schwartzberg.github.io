@@ -1,12 +1,11 @@
 # Site settings
-title: Alex Chilton
-description: Alex Chilton's portfolio — Senior Data / AI / Cloud Engineer with 20+ years experience across software engineering, data engineering, AI/ML and cloud architecture.
-url: "https://alexchilton.github.io" # the base hostname & protocol for your site
-# baseurl: "" # the subpath of your site, e.g. /blog
+title: Paul Schwartzberg
+description: Paul Schwartzberg's portfolio — Senior Software Developer | Azure | .NET | Angular with 20+ years experience.
+url: "https://schwartzberg.github.io"
 
 # User settings
-username: Alex Chilton
-email: alex_chilton@gmx.co.uk
+username: Paul Schwartzberg
+email: schwartzenberg@gmail.com
 
 # Global settings
 icon_size: 58
