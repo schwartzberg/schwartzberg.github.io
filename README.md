@@ -1,4 +1,4 @@
-# Paul Schwartzenberg — Portfolio Website
+# Paul Schwartzberg — Portfolio Website
 
 A one-page mobile-friendly portfolio site powered by Jekyll, acting as an interactive online CV.
 Covers skills, education, work experience, and contact details.
